@@ -2,6 +2,15 @@
   padding: 0 2rem;
 }
 
+.flex {
+  display: flex;
+  justify-content: space-between;
+  max-width: 400px;
+  margin: 0 auto;
+  background: #A0C5E8;
+  padding: 10px 0;
+}
+
 .main {
   min-height: 100vh;
   padding: 4rem 0;
